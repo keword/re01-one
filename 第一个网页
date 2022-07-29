@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang=“zh-CN">
+  <头>
+    <元字符集=“utf-8">
+    <元名称=“视口”内容=“宽度=设备宽度，初始比例=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+  </头>  
+  <正文样式=“边距：0;">
+  <div 样式="
+背景颜色： #f1f1f;
+文本对齐：居中;
+填充：40px
+    ">
+    <img alt=“美少女”src=“https://ts1.cn.mm.bing.net/th/id/R-C.bddfe8adce93922eb3bc3f384fd8775d?rik=KGw%2bjp%2f%2bnyr%2b9A&riu=http%3a%2f%2fimg.crcz.com%2fallimg%2f202003%2f11%2f1583924109139642.jpg&ehk=aIdSQEqGbEyR%2fPfRuAe8lFGKfW0ySQMu3n33Ytg6GX4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1”width=“80ph”height=“80px">
+  </迪夫>
+  <div style=“颜色：绿色;
+背景颜色： #f1f1f1;
+文本对齐：居中;
+    ">
+    <h1>个人简介</h1>
+  </迪夫>
+  <div style=“颜色：黑色;
+最大宽度;760px;
+边距：30px自动;
+填充：30px;
+行高：1.6;
+文本对齐：自动居中;
+    ">
+    <P>姓名： 曹芝丽</p><P>年龄： 19</p>
+    <P>身高： 168cm</p><P>体重： 52kg</P><P>住址： 中国江西省上饶市
+    <P>爱好： 绘画，唱歌，打游戏，间接性躺尸</p>
+    <P>自我宣言：须知少时凌云志，自许人间第一流</p>
+  </迪夫>
+  <div 样式="
+背景颜色： #f1f1f1;
+文本对齐：居中;
+填充：40px
+字体大小：12px;
+    "
+  >
+   <p>版权所有：meishaonv.com</p>
+   <a href=“file:///C:/Users/z/Desktop/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5.html”>我的网址</p> 
+    </迪夫>
+  </头>
+  </身体>
+</断续器>
